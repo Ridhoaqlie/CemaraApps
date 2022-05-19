@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CemaraApps</string>
+    <string name="let_s_start">Let\'s start</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="family_task_with_cemara">Family Task with Cemara</string>
+    <string name="your_web_client_id">Your web client id</string>
+    <string name="manage_your">Manage Your</string>\
+</resources>
