@@ -40,7 +40,7 @@
         android:layout_height="42dp"
         android:layout_marginBottom="116dp"
         android:background="@drawable/bg_btn_login"
-        android:drawableStart="@drawable/icons_google"
+        android:drawableLeft="@drawable/icons_google"
         android:text="@string/login_with_google"
         android:textAllCaps="false"
         android:textColor="@color/black"
