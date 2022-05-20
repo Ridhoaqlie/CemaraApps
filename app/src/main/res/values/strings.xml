@@ -21,5 +21,16 @@
     <string name="create">Create</string>
     <string name="join_the_family">Join the Family</string>
     <string name="input_token">Input Token</string>
-    <string name="join">Join</string>\
+    <string name="join">Join</string>
+    <string name="create_task">Create Task</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="start_time">Start Time</string>
+    <string name="who_will_do">Who Will Do ?</string>
+    <string name="description">Description</string>
+    <string name="btn_create_new_task">Create new Task</string>
+    <string name="end_time">End Time</string>
+    <string name="back">back</string>
+    <string name="add">add</string>
+    <string name="who_will">__________________________________________</string>\
 </resources>
