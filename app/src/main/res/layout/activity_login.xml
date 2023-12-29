@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/logologin"
+    android:background="@drawable/bglogin"
     tools:context=".LoginActivity">
 
     <TextView
@@ -12,8 +12,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="148dp"
+        android:fontFamily="@font/redrosebold"
         android:text="@string/manage_your"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
+        android:textSize="26sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.171"
@@ -24,8 +26,10 @@
         android:id="@+id/tag2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:fontFamily="@font/redrosebold"
         android:text="@string/family_task_with_cemara"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
+        android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/btnSignIn"
         app:layout_constraintEnd_toEndOf="@+id/tag1"

@@ -6,10 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".SplashActivity"
     android:background="@color/gold">
+
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
         android:layout_marginTop="192dp"
         android:src="@drawable/logocemara"
         app:layout_constraintEnd_toEndOf="parent"
@@ -21,7 +22,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/let_s_start"
-        android:textColor="@color/black"
+        android:textColor="@color/light_blue_"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"

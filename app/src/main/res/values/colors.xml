@@ -10,4 +10,11 @@
     <color name="gold">#E6BF3E</color>
     <color name="trans">#00000000</color>
     <color name="oren">#F65F28</color>
+    <color name="grey">#504E4D</color>
+
+    <!--color untuk gradient tansition-->
+    <color name="light_blue_">#0376D9</color>
+    <color name="deep_blue">#035397</color>
+    <color name="blue_500">#2196f3</color>
+    <color name="cyan_500">#00bcd4</color>
 </resources>

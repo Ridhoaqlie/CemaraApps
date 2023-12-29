@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:id="@+id/popup3">
+    android:layout_height="match_parent"
+    android:id="@+id/popup3"
+    android:gravity="bottom|center">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -58,7 +60,7 @@
 
 
                 <EditText
-                    android:id="@+id/et_inputToken"
+                    android:id="@+id/et_create"
                     android:layout_width="match_parent"
                     android:layout_height="42dp"
                     android:layout_marginStart="44dp"
@@ -69,7 +71,7 @@
                     android:inputType="text" />
 
                 <Button
-                    android:id="@+id/btn_input"
+                    android:id="@+id/btn_create"
                     android:layout_width="match_parent"
                     android:layout_height="42dp"
                     android:layout_gravity="center"
@@ -78,8 +80,10 @@
                     android:layout_marginEnd="44dp"
                     android:backgroundTint="@color/gold"
                     android:text="@string/create"
+                    android:textAllCaps="false"
                     android:textColor="@color/black"
-                    android:textStyle="bold" />
+                    android:textStyle="bold"
+                    app:cornerRadius="12dp" />
 
             </LinearLayout>
 

@@ -3,23 +3,44 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CemaraApps/app/src/main/res/drawable/bg_btn.xml" value="0.188" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CemaraApps/app/src/main/res/drawable/bg_btn_login.xml" value="0.188" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CemaraApps/app/src/main/res/drawable/bg_input.xml" value="0.188" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CemaraApps/app/src/main/res/drawable/bg_popup.xml" value="0.188" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CemaraApps/app/src/main/res/layout/activity_login.xml" value="0.3333333333333333" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CemaraApps/app/src/main/res/layout/activity_main.xml" value="0.13333333333333333" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CemaraApps/app/src/main/res/layout/activity_popup_no.xml" value="0.14666666666666667" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CemaraApps/app/src/main/res/layout/activity_popup_qfamily.xml" value="0.16666666666666666" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CemaraApps/app/src/main/res/layout/activity_popup_who.xml" value="0.22" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CemaraApps/app/src/main/res/layout/activity_popup_yes.xml" value="0.3333333333333333" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CemaraApps/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CemaraApps/app/src/main/res/layout/activity_task.xml" value="0.3333333333333333" />
-        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/CemaraApps/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
-        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/CemaraApps2/app/src/main/res/drawable/bg_btn_login.xml" value="0.1" />
-        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/CemaraApps2/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
-        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/CemaraApps2/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
-        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/CemaraApps2/app/src/main/res/layout/activity_splash.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/drawable/bg_btn.xml" value="0.104" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/drawable/bg_btn_.xml" value="0.1085" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/drawable/bg_popup.xml" value="0.1085" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/drawable/btn_round.xml" value="0.104" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/drawable/calenderintro.xml" value="0.1" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/drawable/dot.xml" value="0.104" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.139" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.1" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.108" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/drawable/stroke_rounded_rectangel.xml" value="0.1385" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/drawable/stroke_rounded_rectangle.xml" value="0.1385" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/drawable/stroke_rounded_rectangle_primary.xml" value="0.1085" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/drawable/white_rounded_shape.xml" value="0.1085" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/font/font.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/activity_calendar.xml" value="0.264" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/activity_chart.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/activity_detail.xml" value="0.4" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/activity_intro.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/activity_popup_no.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/activity_popup_qfamily.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/activity_popup_who.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/activity_popup_yes.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/activity_qfamily.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/activity_qfamily2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/activity_role.xml" value="0.264" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/activity_rolefix.xml" value="0.264" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/activity_start.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/activity_task.xml" value="0.4" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/activity_todo_list.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/item_intro.xml" value="0.264" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/layout.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/layout/todo_list.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AndroidStudioProjects/baru/CemaraApps/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1015" />
+        <entry key="..\:/Users/Ridho Aqli Efendi/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/activity_list_item.xml" value="0.22708333333333333" />
       </map>
     </option>
   </component>
